@@ -26,7 +26,7 @@
   font-variant: normal;
   font-stretch: normal;
   font-size: 25px;
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
   background: #f44336;
 }
 #rewardButton span:hover {
@@ -55,7 +55,7 @@
   -moz-animation: roll 0.1s infinite linear;
 }
 #reward_comment {
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
 }
 #menu-outer-x {
   background-color: #6d5aca;
@@ -73,7 +73,7 @@
   color: #fff;
   margin-left: 10px;
   font-size: 20px;
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
 }
 #menu-inner a {
   color: #fff;
@@ -83,7 +83,7 @@
   padding: 0 8px 0 8px;
   line-height: 44px;
   vertical-align: center;
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
 }
 #menu-inner a:hover {
   text-decoration: underline;
@@ -95,7 +95,7 @@
 #bottom-inner {
   display: inline-block;
   font-size: 12px;
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
 }
 #bottom-inner a {
   color: #4400b3;
@@ -126,7 +126,7 @@
   font-size: 30px;
   font-weight: bold;
   color: #6d5aca;
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
 }
 #archive-inter a {
   display: flex;
@@ -137,7 +137,7 @@
   font-size: 20px;
   font-weight: bold;
   padding-left: 10px;
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
 }
 #archive-inter a:hover {
   color: #4400b3;
@@ -178,7 +178,7 @@
   justify-content: space-between;
 }
 #page-prev-next a {
-  font-family: Microsoft Yahei;
+  font-family: DejaVu Sans Mono;
   color: #6d5aca;
   font-size: 17px;
 }
